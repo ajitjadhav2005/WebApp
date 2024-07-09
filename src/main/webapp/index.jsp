@@ -4,7 +4,7 @@
 <h3>Working with Git and Github training...</h3>
 <h2>Working with Git SCM in jenkins</h2>
 <h4> This is Jenkins Test </h4>
-<h5> This is test app</h5>
+
 
 </body>
 </html>
